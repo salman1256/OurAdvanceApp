@@ -7,7 +7,7 @@ namespace OurAdvanceApp
         {
             System.Console.WriteLine("Enter a number");
             int result=int.TryParse(Console.ReadLine(),out int number)?number:1;
-                            Console.WriteLine($"Number entered by you {number} and Cube of Number is {Cube(number)}");
+                            Console.WriteLine($"Number entered by you {result} and Cube of Number is {Cube(result)}");
            
             Console.Read();
 
