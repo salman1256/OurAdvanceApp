@@ -5,21 +5,11 @@ namespace OurAdvanceApp
     {
         public static void Main()
         {
-            try{
-            int number=1;
             System.Console.WriteLine("Enter a number");
-            number=int.Parse(Console.ReadLine());
-            Console.WriteLine($"Number entered by you {number} and Cube of Number is {Cube(number)}");
-                       
-            }
-            catch(Exception ex)
-            {
-                System.Console.WriteLine("Exception Occured"+ex.Message);
-            }
-            finally
-            {
-              Console.Read(); 
-            }
+            int result=int.TryParse(Console.ReadLine(),out int number)?number:1;
+                            Console.WriteLine($"Number entered by you {number} and Cube of Number is {Cube(number)}");
+           
+            Console.Read();
 
         }
         public static int Cube(int number)
