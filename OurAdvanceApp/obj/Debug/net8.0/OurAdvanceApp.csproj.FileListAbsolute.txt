@@ -1,0 +1,15 @@
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\bin\Debug\net8.0\OurAdvanceApp.exe
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\bin\Debug\net8.0\OurAdvanceApp.deps.json
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\bin\Debug\net8.0\OurAdvanceApp.runtimeconfig.json
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\bin\Debug\net8.0\OurAdvanceApp.dll
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\bin\Debug\net8.0\OurAdvanceApp.pdb
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\obj\Debug\net8.0\OurAdvanceApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\obj\Debug\net8.0\OurAdvanceApp.AssemblyInfoInputs.cache
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\obj\Debug\net8.0\OurAdvanceApp.AssemblyInfo.cs
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\obj\Debug\net8.0\OurAdvanceApp.csproj.CoreCompileInputs.cache
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\obj\Debug\net8.0\OurAdvanceApp.dll
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\obj\Debug\net8.0\refint\OurAdvanceApp.dll
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\obj\Debug\net8.0\OurAdvanceApp.pdb
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\obj\Debug\net8.0\OurAdvanceApp.genruntimeconfig.cache
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\obj\Debug\net8.0\ref\OurAdvanceApp.dll
+D:\CICDTraining\Day2\OurAdvanceApp\OurAdvanceApp\obj\Debug\net8.0\OurAdvanceApp.sourcelink.json
